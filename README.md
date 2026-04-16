@@ -169,9 +169,14 @@ atlas-cunsulting/
 - AI services integration and multi-agent pipeline
 - Frontend and backend development
 
+**Samarth Arora** - Full-Stack Developer & Project Lead
+- Architecture design and implementation
+- AI services integration and multi-agent pipeline
+- Frontend and backend development
+
 [GitHub](https://github.com/vanshaggarwal07)
 
-> *Built with ❤️ by VANSH AGGARWAL*
+> *Built with ❤️ by VANSH AGGARWAL and Samarth Arora*
 
 ---
 
